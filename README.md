@@ -23,38 +23,16 @@
 
 ### 💻 Languages and Tools  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python
-▰▰▰▰▰▰▰▰▰▱ 85%
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python         ▰▰▰▰▰▰▰▰▰▱  85%  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20"/> Django         ▰▰▰▰▰▰▰▱▱▱  70%  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20"/>   Flask          ▰▰▰▰▰▰▰▱▱▱  75%  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/>           C Programming  ▰▰▰▰▰▰▱▱▱▱  60%  
+HTML5          ▰▰▰▰▰▰▰▰▰▰  90%  
+CSS3           ▰▰▰▰▰▰▰▰▱▱  80%  
+JavaScript     ▰▰▰▰▰▰▱▱▱▱  65%  
+MySQL          ▰▰▰▰▰▰▰▱▱▱  75%  
+Pandas         ▰▰▰▰▰▰▰▰▱▱  85%  
+NumPy          ▰▰▰▰▰▰▰▰▱▱  80%  
+TensorFlow     ▰▰▰▰▰▱▱▱▱▱  60%  
+OpenCV         ▰▰▰▰▱▱▱▱▱▱  50%  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20"/> Django
-▰▰▰▰▰▰▰▱▱▱ 70%
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20"/> Flask
-▰▰▰▰▰▰▰▱▱▱ 75%
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> C Programming
-▰▰▰▰▰▰▱▱▱▱ 60%
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML5
-▰▰▰▰▰▰▰▰▰▰ 90%
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS3
-▰▰▰▰▰▰▰▰▱▱ 80%
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript
-▰▰▰▰▰▰▱▱▱▱ 65%
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL
-▰▰▰▰▰▰▰▱▱▱ 75%
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20"/> Pandas
-▰▰▰▰▰▰▰▰▱▱ 85%
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20"/> NumPy
-▰▰▰▰▰▰▰▰▱▱ 80%
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="20"/> TensorFlow
-▰▰▰▰▰▱▱▱▱▱ 60%
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="20"/> OpenCV
-▰▰▰▰▱▱▱▱▱▱ 50%
