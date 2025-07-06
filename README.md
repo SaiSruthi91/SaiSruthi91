@@ -23,79 +23,19 @@
 
 ### 💻 Languages and Tools  
 
-<h3>💻 Languages and Tools</h3>
+Python         ⬤⬤⬤⬤⬤⬤⬤⬤⬤⚪  85%  
+Django         ⬤⬤⬤⬤⬤⬤⬤⚪⚪⚪  70%  
+Flask          ⬤⬤⬤⬤⬤⬤⬤⚪⚪⚪  75%  
+C Programming  ⬤⬤⬤⬤⬤⬤⚪⚪⚪⚪  60%  
+HTML5          ⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤  90%  
+CSS3           ⬤⬤⬤⬤⬤⬤⬤⬤⚪⚪  80%  
+JavaScript     ⬤⬤⬤⬤⬤⬤⚪⚪⚪⚪  65%  
+MySQL          ⬤⬤⬤⬤⬤⬤⬤⚪⚪⚪  75%  
+Pandas         ⬤⬤⬤⬤⬤⬤⬤⬤⚪⚪  85%  
+NumPy          ⬤⬤⬤⬤⬤⬤⬤⬤⚪⚪  80%  
+TensorFlow     ⬤⬤⬤⬤⬤⚪⚪⚪⚪⚪  60%  
+OpenCV         ⬤⬤⬤⬤⚪⚪⚪⚪⚪⚪  50%  
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> 
-<b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-▰▰▰▰▰▰▰▰▰▱ 85%
-</p>
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="22"/> 
-<b>Django</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-▰▰▰▰▰▰▰▱▱▱ 70%
-</p>
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="22"/> 
-<b>Flask</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-▰▰▰▰▰▰▰▱▱▱ 75%
-</p>
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="22"/> 
-<b>C Programming</b>&nbsp;&nbsp;
-▰▰▰▰▰▰▱▱▱▱ 60%
-</p>
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/> 
-<b>HTML5</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-▰▰▰▰▰▰▰▰▰▰ 90%
-</p>
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22"/> 
-<b>CSS3</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-▰▰▰▰▰▰▰▰▱▱ 80%
-</p>
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/> 
-<b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-▰▰▰▰▰▰▱▱▱▱ 65%
-</p>
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22"/> 
-<b>MySQL</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-▰▰▰▰▰▰▰▱▱▱ 75%
-</p>
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="22"/> 
-<b>Pandas</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-▰▰▰▰▰▰▰▰▱▱ 85%
-</p>
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="22"/> 
-<b>NumPy</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-▰▰▰▰▰▰▰▰▱▱ 80%
-</p>
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="22"/> 
-<b>TensorFlow</b>&nbsp;&nbsp;&nbsp;
-▰▰▰▰▰▱▱▱▱▱ 60%
-</p>
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="22"/> 
-<b>OpenCV</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-▰▰▰▰▱▱▱▱▱▱ 50%
-</p>
  
 
 
