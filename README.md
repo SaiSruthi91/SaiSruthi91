@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sai Sruthi</h1>
 <h3 align="center">Passionate about Data, Code, and Creative Solutions</h3>
 
-- 🔭 I’m currently working on **Fake News Detection Bot, Speech Emotion Recognition with KNN**
+- 🔭 Recently developed **Fake News Detection Bot** and **Speech Emotion Recognition system using KNN**  
 
-- 🌱 I’m currently learning **Data Analytics tools,Improving My ML Model Skills**
+- 🌱 Currently expanding my skills in **Data Analytics**, **Computer Vision with OpenCV**, and **advanced ML model optimization**  
 
-- 👯 I’m looking to collaborate on **Data Analytics or ML-based projects — Fake News Detection Bot,Real-world AI/ML projects and hackathons — especially Deep Learning and Data Science projects**
+- 👯 Interested in collaborating on **AI/ML, Deep Learning, and real-world Data Science projects**  
 
-- 🤝 I’m looking for help with **Optimizing my ML models having high accuracy and building real-time data dashboards with deployment.**
+- 🤝 Open to guidance on **optimizing ML models for high accuracy**, **deploying real-time data dashboards**, and **building computer vision solutions with OpenCV**  
 
 - 📝 I regularly write articles on [TechBlogging](TechBlogging)
 
