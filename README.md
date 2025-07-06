@@ -23,18 +23,18 @@
 
 ### 💻 Languages and Tools  
 
-Python         ⬤⬤⬤⬤⬤⬤⬤⬤⬤⚪  85%  
-Django         ⬤⬤⬤⬤⬤⬤⬤⚪⚪⚪  70%  
-Flask          ⬤⬤⬤⬤⬤⬤⬤⚪⚪⚪  75%  
-C Programming  ⬤⬤⬤⬤⬤⬤⚪⚪⚪⚪  60%  
-HTML5          ⬤⬤⬤⬤⬤⬤⬤⬤⬤⬤  90%  
-CSS3           ⬤⬤⬤⬤⬤⬤⬤⬤⚪⚪  80%  
-JavaScript     ⬤⬤⬤⬤⬤⬤⚪⚪⚪⚪  65%  
-MySQL          ⬤⬤⬤⬤⬤⬤⬤⚪⚪⚪  75%  
-Pandas         ⬤⬤⬤⬤⬤⬤⬤⬤⚪⚪  85%  
-NumPy          ⬤⬤⬤⬤⬤⬤⬤⬤⚪⚪  80%  
-TensorFlow     ⬤⬤⬤⬤⬤⚪⚪⚪⚪⚪  60%  
-OpenCV         ⬤⬤⬤⬤⚪⚪⚪⚪⚪⚪  50%  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> Python — ★★★★★ (5/5)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="22"/> Django — ★★★★☆ (4/5)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="22"/> Flask — ★★★★☆ (4/5)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="22"/> C Programming — ★★★☆☆ (3/5)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/> HTML5 — ★★★★★ (5/5)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22"/> CSS3 — ★★★★☆ (4/5)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/> JavaScript — ★★★☆☆ (3/5)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22"/> MySQL — ★★★★☆ (4/5)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="22"/> Pandas — ★★★★★ (5/5)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="22"/> NumPy — ★★★★★ (5/5)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="22"/> TensorFlow — ★★★☆☆ (3/5)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="22"/> OpenCV — ★★☆☆☆ (2/5)
 
  
 
