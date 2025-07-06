@@ -17,7 +17,7 @@
 ---
 
 ### 📲 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saisruthi-karnatakapu/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saisruthikarnatakapu/)  
 
 ---
 
