@@ -2,17 +2,17 @@
 
 ---
 
-### 🎯 Passionate about Data, Code, and Creative Solutions  
+### 💡 Turning Ideas into Intelligent Solutions | Data • AI • ML • Web  
 
-- 🛠️ Recently developed **Fake News Detection Bot** and **Speech Emotion Recognition system using KNN**  
-- 🌱 Currently expanding my skills in **Data Analytics**, **Computer Vision with OpenCV**, and **advanced ML model optimization**  
-- 🤝 Open to collaborating on **AI/ML**, **Deep Learning**, and real-world **Data Science projects**  
-- 🧩 Always looking for guidance on **ML model tuning**, **real-time dashboard deployment**, and **computer vision solutions using OpenCV**  
-- 📝 I regularly write articles on [Tech Blogging](https://your-blog-link)  
-- 💬 Ask me about **Python**, **Machine Learning**, **NLP**, **MFCC feature extraction**, **Fake News Detection**, **Speech Emotion Recognition**, **SQL**, **Power BI**, **Tableau**, **Excel**, **Version Control Systems**, **NumPy**, **Pandas**, **Matplotlib**, **Model Training**  
-- 📫 How to reach me: [k.saisruthi913@gmail.com](mailto:k.saisruthi913@gmail.com)  
-- 📄 Know more about my experiences: [My Resume](https://docs.google.com/document/d/1RUc77PHxhlNdA2Yvs80C1eWX7iF2O1f8/edit?usp=sharing)  
-- ⚡ Fun fact: I love turning complex data into simple stories — with a good playlist in the background! 🎧  
+- 🛠️ Recently developed **Fake News Detection Bot** and **Speech Emotion Recognition system using KNN**, applying practical AI to real-world problems  
+- 🌱 Currently enhancing my expertise in **Data Analytics**, **Computer Vision with OpenCV**, and **ML model optimization for real-world deployment**  
+- 🤝 Actively looking to collaborate on **AI/ML**, **Deep Learning**, and impactful **Data Science projects** that solve real-world challenges  
+- 🧩 Open to guidance and collaboration on **fine-tuning ML models**, building **real-time dashboards**, and developing **vision-based AI solutions** with **OpenCV**  
+- 💬 Comfortable working with **Python**, **Machine Learning**, **NLP**, **MFCC feature extraction**, **Fake News Detection**, **Speech Emotion Recognition**, **SQL**, **Power BI**, **Tableau**, **Excel**, **Version Control Systems**, **NumPy**, **Pandas**, **Matplotlib**, **Model Training**  
+- 🎯 Passionate about building solutions that turn **raw data into actionable insights**, with clean code and meaningful impact  
+- 📫 Reach me at: [k.saisruthi913@gmail.com](mailto:k.saisruthi913@gmail.com)  
+- 📄 View my experience: [My Resume](https://docs.google.com/document/d/1RUc77PHxhlNdA2Yvs80C1eWX7iF2O1f8/edit?usp=sharing)  
+- 🎧 Fun fact: I code best when there's a great playlist in the background — creativity and coffee fuel my problem-solving!  
 
 ---
 
