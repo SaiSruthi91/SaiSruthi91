@@ -11,7 +11,7 @@
 I'm a final-year AI & Data Science student with a strong foundation in building intelligent solutions to solve real-world challenges.  
 I love transforming raw data into actionable insights, applying AI/ML techniques, and developing impactful software systems.
 
-💡 My interests include:  
+ 💡 My interests include:  
 ✔ Data Analytics & Visualizations  
 ✔ Machine Learning & Model Optimization  
 ✔ Computer Vision with OpenCV  
@@ -25,17 +25,9 @@ I enjoy building projects that push boundaries, including:
 
 ## 🌐 Connect with Me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:k.saisruthi913@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saisruthikarnatakapu)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.saisruthi913@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisruthikarnatakapu/)
 
----
-
-## 💡 Transforming Ideas into Real-World AI & Data Solutions:
-
-✔ Recently built practical AI projects: [Fake News Detection 🔗](https://github.com/SaiSruthi91/Fake-News-Detection-using-NLP), [Speech Emotion Recognition 🔗 (https://github.com/SaiSruthi91/Speech-emotion-Recognition-using-KNN-Final-year-Project-)
-✔ Currently enhancing skills in **Data Analytics**, **Computer Vision**, and **ML Model Optimization**  
-✔ Open to collaborations on impactful **AI/ML**, **Deep Learning**, and **Data Science** projects  
-✔ Passionate about turning data into meaningful insights through clean code and reliable software  
 
 ---
 
