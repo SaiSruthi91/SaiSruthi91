@@ -34,7 +34,7 @@ I'm a passionate **AI & Data Science enthusiast** with a strong foundation in bu
 ---
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=saisruthi91&theme=blue-green" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=saisruthi91&theme=dark" alt="GitHub Trophies" />
     </a>
 </p>
 
@@ -51,6 +51,5 @@ I'm a passionate **AI & Data Science enthusiast** with a strong foundation in bu
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisruthi91&theme=dark" alt="GitHub Streak" />
 </p>
-
 
 ---
