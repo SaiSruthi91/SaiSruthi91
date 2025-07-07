@@ -64,7 +64,7 @@ I love transforming raw data into actionable insights, applying AI/ML techniques
 
 ## 🎨 Fun Fact:
 
-Some of my best code happens after midnight… and so do my weirdest bugs! 🌙💻
+Some of my best codes happens after midnight… and so do my weirdest bugs! 🌙💻
 
 
 ---
