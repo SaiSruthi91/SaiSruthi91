@@ -22,7 +22,6 @@ I'm a passionate **AI & Data Science enthusiast** with a strong foundation in bu
 - 🧩 Open to guidance and collaboration on **fine-tuning ML models**, building **real-time dashboards**, and developing **vision-based AI solutions** with **OpenCV**  
 - 💬 Comfortable working with **Python**, **Machine Learning**, **NLP**, **MFCC feature extraction**, **Fake News Detection**, **Speech Emotion Recognition**, **SQL**, **Power BI**, **Tableau**, **Excel**, **Version Control Systems**, **NumPy**, **Pandas**, **Matplotlib**, **Model Training**  
 - 🎯 Passionate about building solutions that turn **raw data into actionable insights**, with clean code and meaningful impact  
-- 📫 Reach me at: [k.saisruthi913@gmail.com](mailto:k.saisruthi913@gmail.com)  
 - 📄 View my experience: [My Resume](https://docs.google.com/document/d/1RUc77PHxhlNdA2Yvs80C1eWX7iF2O1f8/edit?usp=sharing)  
 - 🎧 Fun fact: I code best when there's a great playlist in the background — creativity and coffee fuel my problem-solving!  
 
@@ -39,9 +38,6 @@ I'm a passionate **AI & Data Science enthusiast** with a strong foundation in bu
     </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -107,7 +103,7 @@ I'm a passionate **AI & Data Science enthusiast** with a strong foundation in bu
     </a>
 </p>
 
---- 
+---
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisruthi91&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -117,7 +113,6 @@ I'm a passionate **AI & Data Science enthusiast** with a strong foundation in bu
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=saisruthi91&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisruthi91&theme=tokyonight" alt="GitHub Streak" />
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisruthi91&theme=tokyonight" alt="GitHub Streak" />
 </p>
----
