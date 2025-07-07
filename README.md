@@ -22,7 +22,7 @@ I'm a passionate **AI & Data Science enthusiast** with a strong foundation in bu
 - 🧩 Open to guidance and collaboration on **fine-tuning ML models**, building **real-time dashboards**, and developing **vision-based AI solutions** with **OpenCV**  
 - 💬 Comfortable working with **Python**, **Machine Learning**, **NLP**, **MFCC feature extraction**, **Fake News Detection**, **Speech Emotion Recognition**, **SQL**, **Power BI**, **Tableau**, **Excel**, **Version Control Systems**, **NumPy**, **Pandas**, **Matplotlib**, **Model Training**  
 - 🎯 Passionate about building solutions that turn **raw data into actionable insights**, with clean code and meaningful impact  
-- 📄 View my experience: [My Resume](https://docs.google.com/document/d/1RUc77PHxhlNdA2Yvs80C1eWX7iF2O1f8/edit?usp=sharing)  
+- 📄 View my experience: [My Resume](https://github.com/user-attachments/files/21097965/Resume.pdf)  
 - 🎧 Fun fact: I code best when there's a great playlist in the background — creativity and coffee fuel my problem-solving!  
 
 ---
