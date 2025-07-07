@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sai Sruthi</h1>
 <h3 align="center">Passionate about Data, Code, and Creative Solutions</h3>
 
+## 🔥 About Me:
+
+I'm a passionate **AI & Data Science enthusiast** with a strong foundation in building intelligent solutions that solve real-world challenges. My work revolves around transforming raw data into actionable insights, applying AI/ML techniques, and developing reliable, impactful software systems. I enjoy working on **Speech Emotion Recognition**, **Fake News Detection**, and projects that push boundaries in **Data Analytics**, **ML model optimization**, and **Computer Vision**.
+
+---
+
+## 🌐 Connect with me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.saisruthi913@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisruthikarnatakapu/)
 
 ---
 
