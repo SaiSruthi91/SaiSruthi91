@@ -34,10 +34,10 @@ I love transforming raw data into actionable insights, applying AI/ML techniques
 
 💡 Transforming Ideas into Real-World AI & Data Solutions:
 
-✔ Recently built practical AI projects: [Fake News Detection 🔗](https://github.com/saisruthi91/Fake-News-Detection), [Student Database Management System 🔗](https://github.com/saisruthi91/Student-DataBase-Management-System)  
-✔ Currently enhancing expertise in **Data Analytics**, **Computer Vision**, and **ML Model Optimization**  
-✔ Open to collaborate on impactful **AI/ML**, **Deep Learning**, and **Data Science** projects that solve real-world problems  
-✔ Passionate about building reliable software and turning raw data into meaningful insights  
+- Recently built practical AI projects: [Fake News Detection 🔗](https://github.com/saisruthi91/Fake-News-Detection), [Student Database Management System 🔗](https://github.com/saisruthi91/Student-DataBase-Management-System)  
+- Currently enhancing expertise in **Data Analytics**, **Computer Vision**, and **ML Model Optimization**  
+- Open to collaborate on impactful **AI/ML**, **Deep Learning**, and **Data Science** projects that solve real-world problems  
+- Passionate about building reliable software and turning raw data into meaningful insights  
 ---
 
 ## 🛠 Tech Stack:
