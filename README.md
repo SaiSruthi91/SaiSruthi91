@@ -10,6 +10,7 @@ I'm a passionate **AI & Data Science enthusiast** with a strong foundation in bu
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisruthikarnatakapu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisruthikarnatakapu/)
 
 ---
 
