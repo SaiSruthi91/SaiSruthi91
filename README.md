@@ -35,22 +35,22 @@ I'm a passionate **AI & Data Science enthusiast** with a strong foundation in bu
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=saisruthi91&theme=onedark" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=saisruthi91&theme=blue-green" alt="GitHub Trophies" />
     </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saisruthi91&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saisruthi91&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Top Languages" height="200"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=saisruthi91&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saisruthi91&show_icons=true&locale=en&theme=blue-green" alt="GitHub Stats" height="200"/>
 </p>
 
 ---
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisruthi91&theme=onedark" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisruthi91&theme=blue-green" alt="GitHub Streak" />
 </p>
 
 
