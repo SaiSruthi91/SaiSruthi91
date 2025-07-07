@@ -1,14 +1,6 @@
-<table>
-  <tr>
-    <td width="150">
-      <img src="https://github.com/user-attachments/assets/d075e56c-3a08-4522-95bf-b83c87dad02b" alt="saisruthi91" width="150" style="border-radius: 50%;" />
-    </td>
-    <td>
-      <h2>Hi 👋, I'm Sai Sruthi</h2>
-      <p>💡 Turning Ideas into Intelligent Solutions | Data • AI • ML • Web</p>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Sai Sruthi</h1>
+<h3 align="center">Passionate about Data, Code, and Creative Solutions</h3>
+
 
 ---
 
