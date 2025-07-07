@@ -41,15 +41,12 @@ I'm a passionate **AI & Data Science enthusiast** with a strong foundation in bu
 
 ---
 
-<div align="left" style="width: 49%; float: left;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saisruthi91&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saisruthi91&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=saisruthi91&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="200"/>
+</p>
 
-<div align="right" style="width: 49%; float: right;">
-    <img src="https://github-readme-stats.vercel.app/api?username=saisruthi91&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div style="clear: both;"></div>
 
 ---
 
