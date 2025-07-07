@@ -105,13 +105,16 @@ I'm a passionate **AI & Data Science enthusiast** with a strong foundation in bu
 
 ---
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisruthi91&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saisruthi91&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<table>
+<tr>
+<td>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisruthi91&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</td>
+<td>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=saisruthi91&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</td>
+</tr>
+</table>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisruthi91&theme=tokyonight" alt="GitHub Streak" />
