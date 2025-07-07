@@ -64,6 +64,7 @@ I love transforming raw data into actionable insights, applying AI/ML techniques
 
 ## 🎨 Fun Fact:
 
-I code best when there's a great playlist in the background — creativity and coffee fuel my problem-solving! ☕
+Some of my best code happens after midnight… and so do my weirdest bugs! 🌙💻
+
 
 ---
