@@ -18,8 +18,8 @@ I love transforming raw data into actionable insights, applying AI/ML techniques
 ✔ AI-powered Real-world Applications  
 
 I enjoy building projects that push boundaries, including:  
-- [Fake News Detection Bot 🔗](https://github.com/saisruthi91/Fake-News-Detection)  
-- [Speech Emotion Recognition using KNN 🔗](https://github.com/saisruthi91/Speech-Emotion-Recognition)  
+- [Fake News Detection Bot 🔗](https://github.com/SaiSruthi91/Fake-News-Detection-using-NLP)
+- [Speech Emotion Recognition using KNN 🔗](https://github.com/SaiSruthi91/Speech-emotion-Recognition-using-KNN-Final-year-Project-)
 
 ---
 
@@ -32,7 +32,7 @@ I enjoy building projects that push boundaries, including:
 
 ## 💡 Transforming Ideas into Real-World AI & Data Solutions:
 
-✔ Recently built practical AI projects: [Fake News Detection 🔗](https://github.com/saisruthi91/Fake-News-Detection), [Speech Emotion Recognition 🔗](https://github.com/saisruthi91/Speech-Emotion-Recognition)  
+✔ Recently built practical AI projects: [Fake News Detection 🔗](https://github.com/SaiSruthi91/Fake-News-Detection-using-NLP), [Speech Emotion Recognition 🔗 (https://github.com/SaiSruthi91/Speech-emotion-Recognition-using-KNN-Final-year-Project-)
 ✔ Currently enhancing skills in **Data Analytics**, **Computer Vision**, and **ML Model Optimization**  
 ✔ Open to collaborations on impactful **AI/ML**, **Deep Learning**, and **Data Science** projects  
 ✔ Passionate about turning data into meaningful insights through clean code and reliable software  
