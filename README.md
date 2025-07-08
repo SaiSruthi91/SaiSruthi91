@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Sai Sruthi </h1>
+<h1 align="center"> Hi 👋, I'm Sai Sruthi Karnatakapu </h1>
 
 <p align="center">
     Passionate about Data, AI, and Building Real-World Solutions
